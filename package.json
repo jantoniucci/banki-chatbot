@@ -1,0 +1,26 @@
+{
+  "name": "benki-chatbot",
+  "version": "0.0.1",
+  "description": "Benki your bank chatbot",
+  "keywords": [
+    "bank",
+    "chatbot",
+    "botengine",
+    "bots",
+    "nlp",
+    "automation"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/jantoniucci/benki-chatbot",
+  "author": "Javier Antoniucci <javier.antoniucci@gmail.com>",
+  "dependencies": {
+    "JSONPath": "^0.11.2",
+    "dateformat": "^1.0.12",
+    "node-fetch": "^1.5.1",
+    "node-uuid": "^1.4.7",
+    "node-wit": "^3.3.2"
+  }
+}
